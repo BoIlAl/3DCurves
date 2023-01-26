@@ -1,0 +1,12 @@
+.vs/
+3DCurvesLib/.vs/
+3DCurvesLib/Debug/
+3DCurvesLib/Release/
+
+Primitives/.vs/
+Primitives/Debug/
+Primitives/Release/
+
+Test/.vs/
+Test/Debug/
+Test/Release/
